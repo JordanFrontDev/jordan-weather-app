@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  height: 100vh;
+  color: #fff;
+  font-family: "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(90deg, rgba(2, 0, 36, 0.534) 0%, rgba(9, 9, 121, 0.493) 35%, rgba(0, 213, 255, 0.5) 100%),
+  url('./images//background.jpg');
+ background-size: cover;
+ background-position: center;
+  background-repeat: no-repeat;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.wi-day-sunny:before {
+  width: 10rem;
+}
